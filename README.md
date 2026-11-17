@@ -38,3 +38,5 @@ Java
 
 ## Objectif
 Pratiquer les commandes Git et GitHub.
+## Contribution
+Ce projet a été réalisé dans le cadre du TP Git et GitHub.
