@@ -30,3 +30,11 @@ java Main
 - Java
 - Git
 - GitHub
+## Auteur
+Adama Kane
+
+## Langage utilisé
+Java
+
+## Objectif
+Pratiquer les commandes Git et GitHub.
