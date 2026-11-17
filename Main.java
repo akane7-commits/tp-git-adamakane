@@ -10,7 +10,7 @@ public class Main {
     static int soustraction(int a, int b) {
         return a - b;
     }
-
+// Cette methode permet de multiplier deux nombres
     // Multiplication
     static int multiplication(int a, int b) {
         return a * b;
