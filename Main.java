@@ -58,3 +58,4 @@ public class Main {
     }
 }
 // Cette methode permet d'additionner deux nombres
+// Cette methode permet de soustraire deux nombres
