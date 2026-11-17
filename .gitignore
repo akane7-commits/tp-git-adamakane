@@ -1,0 +1,10 @@
+# Fichiers Java compilés
+*.class
+
+# Fichiers temporaires
+*~
+*.swp
+
+# Configuration des éditeurs
+.vscode/
+.idea/
