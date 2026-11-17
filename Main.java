@@ -57,3 +57,4 @@ public class Main {
         System.out.println("10 modulo 3 = " + modulo(10, 3));
     }
 }
+// Cette methode permet d'additionner deux nombres
